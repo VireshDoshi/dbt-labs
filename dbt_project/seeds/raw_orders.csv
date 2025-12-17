@@ -1,0 +1,11 @@
+order_id,customer_id,order_date,total_amount,order_status,customer_name,customer_postcode
+1,101,2025-10-01,250,completed,Mike Ashley,SL6 1XN
+2,102,2025-10-03,450,pending,James Blog,LE3 3RR
+3,103,2025-10-05,100,completed,Tony Smith,BA22 4LG
+4,104,2025-10-10,99,completed,Jane Davis,BS7 3LK
+5,104,2025-10-10,900,completed,Angela Ramsay,CF72 8LE
+6,104,2025-10-10,1000,pending,Barbera Grand,G24 972
+7,104,2025-10-11,342,completed,James Brien,SO19 9TF
+8,102,2025-10-11,424,completed,Abdul Fatwa,LE4 9TF
+9,102,2025-10-11,424,completed,Daniel Lambert,NW6 6RG
+10,102,2025-10-11,43,pending,Simon Morris,YO1 5DD
