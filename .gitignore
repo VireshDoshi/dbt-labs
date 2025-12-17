@@ -1,2 +1,2 @@
-airflow/logs
-__pycache___
+# airflow/logs/*
+# __pycache__
